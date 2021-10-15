@@ -20,3 +20,14 @@ C:\Users\iagod\Desktop\Projeto Livraria\C#\Livraria\obj\Debug\Livraria.frmMenu.r
 C:\Users\iagod\Desktop\Projeto Livraria\C#\Livraria\obj\Debug\Livraria.Properties.Resources.resources
 C:\Users\iagod\Desktop\Projeto Livraria\C#\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
 C:\Users\iagod\Desktop\Projeto Livraria\C#\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
+C:\Users\iagod\Desktop\Livraria\LibraryProject\Livraria\C#\Livraria\obj\Debug\Livraria.csproj.AssemblyReference.cache
+C:\Users\iagod\Desktop\Livraria\LibraryProject\Livraria\C#\Livraria\obj\Debug\Livraria.exe
+C:\Users\iagod\Desktop\Livraria\LibraryProject\Livraria\C#\Livraria\obj\Debug\Livraria.pdb
+C:\Users\iagod\Desktop\Livraria\LibraryProject\Livraria\C#\Livraria\bin\Debug\Livraria.exe.config
+C:\Users\iagod\Desktop\Livraria\LibraryProject\Livraria\C#\Livraria\bin\Debug\Livraria.exe
+C:\Users\iagod\Desktop\Livraria\LibraryProject\Livraria\C#\Livraria\bin\Debug\Livraria.pdb
+C:\Users\iagod\Desktop\Livraria\LibraryProject\Livraria\C#\Livraria\obj\Debug\Livraria.Login.resources
+C:\Users\iagod\Desktop\Livraria\LibraryProject\Livraria\C#\Livraria\obj\Debug\Livraria.frmMenu.resources
+C:\Users\iagod\Desktop\Livraria\LibraryProject\Livraria\C#\Livraria\obj\Debug\Livraria.Properties.Resources.resources
+C:\Users\iagod\Desktop\Livraria\LibraryProject\Livraria\C#\Livraria\obj\Debug\Livraria.csproj.GenerateResource.cache
+C:\Users\iagod\Desktop\Livraria\LibraryProject\Livraria\C#\Livraria\obj\Debug\Livraria.csproj.CoreCompileInputs.cache
